@@ -1,8 +1,9 @@
+#Question 
 
-**Que1: Is MongoDB always better than the mysql?
-Ans: In terms of performance of a single simple query, MongoDB will be a lot faster than MySQL. 
-In my experience, you will notice differences under heavy load situations in some special situations.
-In MySQL all competent database administrators should be aware of the importance of indexes.
-Compared to MongoDB it seems that most administrators don’t even know that something like indexes exist!
-That might come from the fact, that MongoDB is a structureless database, so why should I care?
-But I want to point out here that proper index usage is at least as important as with other database engines.
+**Que1: Is MongoDB always better than the mysql?**
+>Ans: In terms of performance of a single simple query, MongoDB will be a lot faster than MySQL. 
+>In my experience, you will notice differences under heavy load situations in some special situations.
+>In MySQL all competent database administrators should be aware of the importance of indexes.
+>Compared to MongoDB it seems that most administrators don’t even know that something like indexes exist!
+>That might come from the fact, that MongoDB is a structureless database, so why should I care?
+>But I want to point out here that proper index usage is at least as important as with other database engines.
